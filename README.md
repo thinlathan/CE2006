@@ -1,4 +1,4 @@
-#CE2006 - Software Engineering Project (Park n Go Application)
+## CE2006 - Software Engineering Project (Park n Go Application)
 
 This is a mobile application developed using Flutter software development kit (SDK) so that it can be used on both IOD and Andriod mobile platform.
 
